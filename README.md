@@ -15,7 +15,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nazarkobets&show_icons=true&hide_border=true&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
   <br>
-  (https://github-readme-stats.vercel.app/api/wakatime?username=nazarkobets)](https://github.com/nazarkobets/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
