@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazar Kobets</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nazar Kobets</h1>
 <h3 align="center">I'm 13 years old software developer with passion to frontend and backend development, JS, TypeScript, node.js, CSS, HTML, C#, Unity, Swift, iOS, Git.</h3>
 
 - 🌱 I’m currently learning **git, swift, react.**
