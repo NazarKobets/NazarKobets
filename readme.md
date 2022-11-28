@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazar Kobets</h1>
 <h3 align="center">I'm 13 years old software developer with passion to frontend and backend development, JS, TypeScript, node.js, CSS, HTML, C#, Unity, Swift, iOS, Git.</h3>
 
-- 🌱 I’m currently learning **git, swift, react and git**
+- 🌱 I’m currently learning **git, swift, react.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
