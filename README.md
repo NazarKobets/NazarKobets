@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="int#0936" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@int#0936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="int#0936" height="30" width="40" /></a>
 </p>
 
 <h2> &#x1f4c8; GitHub Stats </h3>
